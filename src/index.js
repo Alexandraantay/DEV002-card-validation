@@ -2,9 +2,9 @@ import validator from './validator.js';
 let registrarte = document.getElementById("registrarte");
 registrarte.addEventListener("click", MostrarVista2);
 function MostrarVista2() {
-    let vista_1 = document.getElementById("pantalla1")
+    let pantalla1 = document.getElementById("pantalla1")
     pantalla1.style.display = "none";
-    let vista_2 = document.getElementById("pantalla2");
+    let pantalla2 = document.getElementById("pantalla2");
     pantalla2.style.display = "inline-flex";
     mostrarSaludo();
 }
@@ -29,7 +29,6 @@ btnValidation.addEventListener("click", function (e) {
     let resultMaskify = validator.maskify(numberCard);
 
     if (resultValidation) {
-        document.getElementById("numero").innerHTML = resultMaskify;
         alert("Felicidades ,la tarjeta ingresada es válida")
     } else {
         alert("La tarjeta registrada no es válida, por favor intente nuevamente")
