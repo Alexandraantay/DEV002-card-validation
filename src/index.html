@@ -1,14 +1,69 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta charset="utf-8">
+
+  <title>Tarjeta de crédito válida</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header>
+    <center>
+      <h1>AJAK</h1>
+    </center>
+
+  </header>
+  <main>
+    <div id="pantalla1" class="pantalla1">
+      <center>
+        <h2>DISFRUTA DE TODAS LAS PELICULAS Y SERIES ILIMITADAS</h2>
+      </center>
+      <img src="./foto2.jpg" class="imagen">
+      <center>
+        <h3>Disponible en todas las plataformas digitales</h3><br><br><br>
+      </center>
+      <center><img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/bienvnds-13.gif" alt=""><br><br><br><br>
+      </center>
+      <center><input type="text" id="name" placeholder="Ingrese su nombre completo" value=""></imput><br><br><br>
+      </center>
+      <center><button id="registrarte">Registrarte</button></center>
+
+    </div>
+
+    <div id="pantalla2" class="pantalla2" hidden>
+      <h4 id="saludo"></h4><br><br><br>
+
+      <form>
+
+        <section id="p1"><br><br><br><br>
+
+          <h5>"VALIDACIÓN DE TARJETA"</h5><br>
+          <img src="https://josehuerta.es/wp-content/uploads/2018/04/Pan.jpg" alt="" class="imagen1">
+          <h5>Número de tarjeta</h5><br><br>
+          <input type="text" name="Número" id="numero" pattern="[0-9]+" required=""
+            placeholder="Ingrese número de tarjeta" minlength="16" maxlength="16" autocomplete="off"></input></center>
+          <h5>Fecha de vencimiento de la tarjeta</h5>
+          <input type="month" id="mes">
+        </section></input><br>
+        <h5> Cvv</h5>
+        <input type="numero" minlength="3" maxlength="3" placeholder="Código de seguridad"></input><br><br><br><br><br>
+        <button id="validar">Validar</button>
+
+        </buton>
+    </div>
+    </div>
+    </section>
+
+
+
+    </form>
+    </div>
+  </main>
+  <footer></footer>
+  <script src="index.js" type="module"></script>
+</body>
+
 </html>
