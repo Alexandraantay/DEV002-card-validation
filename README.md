@@ -20,7 +20,7 @@ II. ¿Como soluciona los problemas/necesidades de dichos usuarios?: Hacemos que 
 
 III. Primer prototipo:
 
-![Primer prototipo](C:\Users\AMBER\Documents\Captura de pantalla 2022-11-21 154152.png)
+![Primer prototipo](Captura de pantalla 2022-11-21 154152.png)
 
 .Luego de pedir feedback sobre mi primer prototipo de mis compañeras y coach se me recomendó no agregar muchos botones si mi objetivo no era el darle funcionalidad a todos esos botones,además de que eso podía tomar tiempo y también era muy importante hacer que el código para la validación funcione
 .Tomé en cuenta cada comentario ,así que decidí cambiar por completo mi prototipo ya que se me vinieron muchas ideas ,el nombre de la plataforma se mantuvo
