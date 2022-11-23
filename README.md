@@ -20,19 +20,19 @@ II. ¿Como soluciona los problemas/necesidades de dichos usuarios?: Hacemos que 
 
 III. Primer prototipo:
 
-![Primer prototipo en canva](./src//img/Primerprototipo.png)
+![Primer prototipo en canva](Primerprototipo.png)
 
 .Luego de pedir feedback sobre mi primer prototipo de mis compañeras y coach se me recomendó no agregar muchos botones si mi objetivo no era el darle funcionalidad a todos esos botones,además de que eso podía tomar tiempo y también era muy importante hacer que el código para la validación funcione
 .Tomé en cuenta cada comentario ,así que decidí cambiar por completo mi prototipo ya que se me vinieron muchas ideas ,el nombre de la plataforma se mantuvo
 
 IV. Primer prototipo en Figma:
 
-![Primer prototipo en figma](./src//img/Primerprototipofigma.png)
+![Primer prototipo en figma](Primerprototipofigma.png)
 
 .Al recibir feedback de mis compañeras me dijeron como retroalimentación que las luces de fondo ,ya que había agregado un gif con luces como estrellas en el espacio que se movían mucho podía llegar a ser un poco pesado para los usuarios ,me recomendaron hacer que se note mas las letras de los títulos y subtítulos
 .Realicé el cambio de fondo de la página y también cambié la imagen de la tarjeta para que pueda combinar con los colores de la página
 
 VI. Imagen Prototipo Final
 
-![prototipo final en figma](./src//img/Prototipofinal.png)
+![prototipo final en figma](Prototipofinal.png)
 
